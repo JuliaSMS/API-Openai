@@ -13,7 +13,7 @@ Este é um projeto simples para criar um chatbot utilizando o modelo GPT-3.5 da 
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/JuliaSMS/chatbot-openai.git
+   git clone https://github.com/JuliaSMS/API-Openai.git
    cd chatbot-openai
 
 
